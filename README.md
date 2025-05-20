@@ -1,3 +1,4 @@
+# Design-and-Analysis-of-Algorithms-Mini-Project
 This was a mini-project for the course Design and Analysis of Algorithms. Quite an informative course, it helped solidify my knowledge on data structures and improved my skills on creating efficient codes.
 
 ---
