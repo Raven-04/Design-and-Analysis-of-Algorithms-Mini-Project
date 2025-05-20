@@ -1,0 +1,9 @@
+Quicksort is an efficient sorting algorithm, serving as a systematic method for placing the elements of a random access file or an array in order. Implement the following variations of quicksort algorithm: 
+  1- Basic quicksort where the chosen pivot is the first element of an array. 
+  2- Quicksort where the pivot is the median of three elements of an array (first, last, and middle). 
+  3- Quicksort where the pivot is the median of three randomly chosen elements of an array. 
+
+Perform the following to test the implemented algorithms: 
+  a. Generate large arrays (of size n=105) with different distributions reflecting the algorithms’ best, average, and worst cases.
+  b. Compare the efficiencies theoretically and experimentally by reporting results in Tables or Charts.
+  c. Analyze the results and state your implications.
